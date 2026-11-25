@@ -1,0 +1,8 @@
+pandas
+pyarrow
+huggingface_hub
+fsspec
+scipy
+scikit-learn
+matplotlib
+statsmodels
