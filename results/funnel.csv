@@ -1,0 +1,12 @@
+step,rows
+all_repositories,25402
+all_pull_requests,361296
+all_reviews,541831
+all_review_comments,291248
+typescript_repositories_100plus_stars,4994
+pull_requests_in_kept_repositories,102198
+review_comments_joined_to_reviews,291248
+review_comments_in_kept_pull_requests,63952
+human_review_comments,20925
+review_comments_at_least_35_characters,16949
+review_comments_with_outcome,16949
