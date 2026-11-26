@@ -6,7 +6,7 @@ import pandas as pd
 
 
 SEED = 200
-TARGET_PER_AGENT = 40
+TARGET_PER_AGENT = 60
 
 
 comments = pd.read_csv("data/filtered_comments.csv")
